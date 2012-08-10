@@ -42,7 +42,10 @@ If you happened to name Standard 3 theme directory anything else besides "standa
 ### Where can I find support?
 * On our [support forum](http://support.8bit.io).
 
-## Changelog
+## Credit
 
-### 3.0
-* Initial release.
+* [8BIT](http://8bit.io)
+
+## License
+
+* [GPL](http://www.gnu.org/licenses/gpl-3.0.html)
