@@ -2,6 +2,8 @@
 
 ## 3.0.1 (August 10th, 2012)
 
+### Modifications
+
 * Adds base functions.php file.
 * Adds changelog.md file for tracking changes.
 * Updates license.
