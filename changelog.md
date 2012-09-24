@@ -1,5 +1,15 @@
 # Changelog
 
+## 3.0.2 (September 24th, 2012)
+
+### Modifications
+
+* Adds support for child theme right-to-left languages.
+
+### Change Set
+
+* style.css
+
 ## 3.0.1 (August 10th, 2012)
 
 ### Modifications
