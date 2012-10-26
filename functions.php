@@ -17,6 +17,7 @@
 		standard_header_style
 		standard_admin_header_style
 		standard_admin_header_image
+		custom_comment
 		standard_process_link_post_format_content
 		standard_process_link_post_format_title
 		standard_remove_paragraph_on_media

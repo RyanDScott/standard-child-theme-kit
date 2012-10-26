@@ -1,5 +1,15 @@
 # Changelog
 
+## 3.0.3 (October 26th, 2012)
+
+### Modifications
+
+* Updates overridable functions in functions.php.
+
+### Change Set
+
+* functions.php
+
 ## 3.0.2 (September 24th, 2012)
 
 ### Modifications
