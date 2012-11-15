@@ -1,5 +1,21 @@
 # Changelog
 
+## 3.2 (November 15th, 2012)
+
+### Modifications
+
+* Changes "custom_comment" function to "standard_custom_comment" for Standard 3.2 release.
+* Brings child theme kit version number in sync with Standard to avoid confusion.
+
+### Change Set
+
+* functions.php
+* style.css
+
+## 3.1 (Skipped)
+
+See 3.2 notes for more information.
+
 ## 3.0.3 (October 26th, 2012)
 
 ### Modifications
