@@ -1,6 +1,18 @@
 # Changelog
 
-## 3.2 (November 15th, 2012)
+## 3.2 (February 28st, 2013)
+
+### Modifications
+
+* Adds `standard_comment_form` as an overridable function.
+* Removes `standard_set_media_embed_size` function for override.
+* Removes all end-of-file closing PHP tags.
+
+### Change Set
+
+* functions.php
+
+## 3.2 Beta (November 15th, 2012)
 
 ### Modifications
 

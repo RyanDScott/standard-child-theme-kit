@@ -12,7 +12,6 @@
 		standard_add_theme_menus
 		standard_add_theme_sidebars
 		standard_add_theme_features
-		standard_set_media_embed_size
 		standard_set_theme_colors
 		standard_header_style
 		standard_admin_header_style
@@ -26,6 +25,7 @@
 		standard_post_format_rss
 		standard_modify_widget_titles
 		standard_add_title_to_single_post_pagination
+		standard_comment_form
 
 	You may also place any functions outlined in our FAQs & tutorials on the support
 	forum in this file, as instructed, or any other code you create yourself or find
@@ -35,12 +35,7 @@
 	bring down your website. Please make sure to create backups and have FTP
 	access to your server before modifying this file so you amy correct any issues.
 	
-	Be sure to place any code after these instructions and before the closing 
-	PHP tag (ie. "?>").
-
 /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\//\/\/\/\/\/\/\/\/\/\
 */
 
-
-
-?>
+/* Place your code anywhere after this line. */
