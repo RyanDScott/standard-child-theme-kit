@@ -39,18 +39,3 @@
 */
 
 /* Place your code anywhere after this line. */
-
-/* Do not edit anything below this line. */
-
-/**
- * This function deregisters the `theme-responsive` stylesheet included with Standard core.
- * It's imported using the child theme's `style.css` file to ensure that you're able to begin
- * customizing writing styles and custom designs as soon as possible.
- * 
- * @version 1.0
- * @since 3.2.1
- */
-function standard_child_reorder_responsive_styles() {
-    wp_dequeue_style( 'theme-responsive' );
-} // end standard_child_reorder_responsive_styles
-add_action( 'wp_enqueue_scripts', 'standard_child_reorder_responsive_styles', 1000 );
