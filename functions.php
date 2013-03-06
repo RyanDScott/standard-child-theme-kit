@@ -38,9 +38,4 @@
 /\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\/\//\/\/\/\/\/\/\/\/\/\
 */
 
-function standard_child_reorder_responsive_styles() {
-	wp_dequeue_style( 'theme-responsive' );
-} // end standard_child_reorder_responsive_styles
-add_action( 'wp_enqueue_scripts', 'standard_child_reorder_responsive_styles', 1000 );
-
 /* Place your code anywhere after this line. */
