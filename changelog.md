@@ -1,5 +1,16 @@
 # Changelog
 
+## 3.2.1 (March 6th, 2013)
+
+### Modifications
+
+* Adds support for overriding responsive theme classes.
+
+### Change Set
+
+* functions.php
+* style.css
+
 ## 3.2 (February 28st, 2013)
 
 ### Modifications
